@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message:"If you use this software, please cite it as below"
+authors:
+- family-names: "Silva"
+  given-names: "Braian"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "estudos-git"
+version: 2.0.4
+doi: xxxxxxxxxxx
+date-released: 2026-24-05
+url: "https://github.com/github-linguist/linguist"
+journal: "Journal Title"
+month: 5
+start: 1 # First page number
+end: 10 # Last page number
+title: "Estudos git
+issue: 1
+volume: 1
+year: 2025
