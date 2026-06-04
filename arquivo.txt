@@ -1,2 +1,3 @@
 "THis is my file" 
 and updated know
+"New line added"
