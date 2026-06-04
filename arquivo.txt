@@ -1,4 +1,1 @@
-"THis is my file" 
-and updated know
-"New line added"
-"forty line add
+Clear the file arquivo.txt
